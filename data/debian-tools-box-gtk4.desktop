@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Debian Tools Box
+Comment=Helper tool for Debian tasks
+Exec=debian-tools-box-gtk4
+Icon=debian-tools-box-gtk4
+Terminal=false
+Type=Application
+Categories=System;Utility;
+StartupNotify=true
